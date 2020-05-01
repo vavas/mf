@@ -1,3 +1,3 @@
 # mf
 
-Mentofrinder - Connecting mentors and mentees
+MentorFinder - connecting mentors and mentees
